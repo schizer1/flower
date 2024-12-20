@@ -20,7 +20,7 @@ body {
   perspective: 1000px;
 }
 .text {
-  margin-bottom: 100px;
+  margin-bottom: 50px;
   margin-top: -1000px;
   margin-right: -1000px;
   margin-inline: -100px;
